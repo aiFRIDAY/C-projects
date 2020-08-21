@@ -1,5 +1,5 @@
 # Salary-Records
 
 This is a basic salary record system designed in c++ 
-there could be lot of improvements but it is kept in original version of what I had built in high school 
-Sadly this is the only code remains of the various C++ codes I built during my high school period
+This is one of the common programs and good for practice after you have learnt the basic concepts
+Note that there are better implementations for the purpose this is just to practice your understanding on the subject
